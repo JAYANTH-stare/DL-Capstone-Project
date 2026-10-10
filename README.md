@@ -68,7 +68,7 @@ PSNR of watermarked vs. cover image: 28–35 dB
 
 Watermarked images visually identical to cover images
 
-Recovered watermark recognizable
+Recovered the watermark recognizable
 
 ✔ Detection Accuracy
 
